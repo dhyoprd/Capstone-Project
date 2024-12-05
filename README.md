@@ -79,6 +79,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📨 Contact  
 For further inquiries or suggestions, feel free to contact:  
-- **Name**: [Dhyo Pradnyadiva]  
-- **Email**: [dhyoprd@outlook.com]  
+- **Name**: [Dhyo Pradnyadiva](instagram.com/dhyoprd)  
+- **Email**: [dhyoprd@outlook.com]
 - **LinkedIn/GitHub**: [https://www.linkedin.com/in/dhyoprd/]
